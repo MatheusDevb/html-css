@@ -1,0 +1,173 @@
+Curiosidades de Tecnologia
+
+Tudo aquilo que você sempre quis saber sobre o mundo Tech, em um único lugar
+
+[MENU]
+Home
+Notícias
+Curiosidades
+Fale Conosco
+
+História do Mascote do Android
+
+Provavelmente você sabe que o sistema operacional Android, mantido pelo Google é um dos mais utilizados para dispositivos móveis em todo o mundo. Mas tavez você não saiba que o seu simpático mascote tem um nome e uma história muito curiosa? Pois acompanhe esse artigo para aprender muita coisa sobre esse robozinho.
+
+A primeira versão
+
+A primeira tentativa de criar um mascote surgiu em 2007 e veio de um desenvolvedor chamado Dan Morrill. Ele conta que abriu o Inkscape (software livre para vetorização de imagens) e criou sua própria versão de robô. O objetivo era apenas personificar o sistema apenas para a a sua equipe, não existia nenhuma solicitação da empresa para a criação de um mascote.
+
+[FOTO]
+
+Essa primeira versão bizarra até foi batizada em homenagem ao seu criador: seriam os Dandroids.
+
+Surge um novo mascote
+
+A ideia de ter um mascote foi amadurecendo e a missão foi passada para uma profissional da área. A ilustradora Russa Irina Blok, também funcionária do Google, ficou com a missão de representar o pequeno robô de uma maneira mais agradável.
+
+[FOTO]
+
+A ideia principal da Irina era representar tudo graficamente com poucos traços e de forma mais chapada. O desenho também deveria gerar identificação rápida com quem o olha. Surgiu então o Bugdroid, o novo mascote do Android.
+
+[FOTO]
+
+A principal inspiração para os traços do novo Bugdroid veio daqueles bonequinhos que ilustram portas de banheiro para indicar o gênero de cada porta. Conta a lenda que a artista estava criando em sua mesa no escritório do Google e olhou para o lado dos banheiros e a identificação foi imediata: simples, limpo, objetivo.
+
+[VIDEO]
+ 
+[EXTRA] Quer aprender mais? 
+
+Outro assunto curioso em relação ao Android é que cada versão sempre foi nomeada em homenagem a um doce, em ordem alfabética a partir da versão 1.5 até a 9.0.
+
+1.5 - Cupcake
+1.6 - Donut
+3.0 - Eclair
+2.2 - Froyo
+2.3 - Gingerbread
+3.0 - Honeycomb
+4.0 - Ice Cream Sandwich
+4.1 - Jelly Bean
+4.4 - KitKat
+5.0 - Lolipop
+6.0 - Marshmallow
+7.0 - Nougat
+8.0 - Oreo
+9.0 - Pie
+
+Infelizmente, o Android Q não existiu, pois o Google resolveu pôr fim a essa divertida prática e começou a usar numerações, o que deu origem ao Android 10.
+
+Acesse aqui o site Android History para conhecer a sequência das versões "adocicadas" e o que cada uma trouxe para o sistema Android.
+[/EXTRA]
+
+Então é isso! Espero que você tenha gostado do nosso artigo com essa curiosidade sobre o sistema Android e seu simpático mascote.
+         
+Site criado por Gustavo Guanabara para o CursoemVideo.
+
+
+
+
+
+------------------------------------------------------------
+
+estilos antes da correção:
+
+
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.cabecalho {
+    background: linear-gradient(to top, rgb(2, 77, 2), rgba(11, 204, 11, 0.384));
+    color: white;
+    padding: 20px 0px 20px 0px;
+}
+
+.titutlo-pagina {
+    text-align: center;
+    color: white;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    text-transform: uppercase;
+    margin: 0px;
+    padding: 0px;
+}
+
+.sub-cabecalho {
+    text-align: center;
+    padding: 22px;
+    font-size: 11px; 
+}
+
+header {
+    width: 100vw;
+    height: 150px;
+    padding: 20px;
+    margin: 0px;
+}
+
+body {
+    background-color: #c5ebd6;
+    font-family: Arial, Helvetica, sans-serif;
+    margin: 0px, 30px, 0px, 50px;
+    padding: 0px, 30px, 0px, 50px;
+}
+
+h1 {
+    font-family: "idroid";
+    margin: 10px;
+    color: rgb(6, 87, 6);
+    padding: 10px;
+
+}
+
+h2 {
+    font-family: "idroid";
+    background: linear-gradient(to right, rgba(13, 146, 13, 0.377), white);
+    color: rgb(6, 87, 6);
+}
+
+p {
+    
+    padding: 12px;
+    text-indent: 30px;
+}
+
+.menu > a{
+    text-align: left;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-size: 12px;
+    text-decoration: none;
+    color: white;
+    padding: 10px;
+}
+
+.menu > a:hover {
+    text-decoration: underline;
+}
+
+.conteudo-principal {
+    background-color: white;
+    margin: 0px 130px 0px 130px;
+    padding: 20px;
+    box-shadow: 5px 5px 10px black;
+
+
+}
+
+#bugdroid {
+    padding-left: 33%;
+}
+
+#foto-irina {
+    align-self: center;
+    padding: 0px;
+}
+
+.rodape {
+    background-color: rgb(7, 54, 7);
+    color: rgb(109, 184, 109);
+    text-align: center;
+    font-size: 12px;
+    margin: 10px 0px 0px 0px;
+    padding: 0px
+}
